@@ -15,14 +15,14 @@ This project documents hands-on analysis of network traffic captured from my own
 - Identified A and AAAA DNS records.
 - Examined DNS responses and resolved IP addresses.
 
-![DNS Analysis](screenshots/01-dns-analysis.png)
+![DNS Analysis](screenshots/Screenshot_15.png)
 
 ### 2. TCP Three-Way Handshake
 - Identified SYN, SYN-ACK, and ACK packets.
 - Verified the connection establishment process.
 - Analyzed TCP flags using Wireshark.
 
-![TCP Handshake](screenshots/02-tcp-handshake.png)
+![TCP Handshake](screenshots/Screenshot_19.png)
 
 ### 3. TLS 1.3 Traffic Analysis
 - Inspected Client Hello and Server Hello messages.
@@ -30,7 +30,7 @@ This project documents hands-on analysis of network traffic captured from my own
 - Examined the TLS_AES_128_GCM_SHA256 cipher suite.
 - Observed encrypted application data.
 
-![TLS Analysis](screenshots/03-tls-analysis.png)
+![TLS Analysis](screenshots/Screenshot_25.png)
 
 ## Key Learning Outcomes
 - Understanding DNS name resolution
